@@ -45,7 +45,7 @@ Now clone the `OpenVINO Notebook`.
 git clone https://github.com/openvinotoolkit/openvino_notebooks.git
 ```
 
-## Install Dependencies & Laucn
+## Install Dependencies & Launch
 Install dependnet Python modules from `requirements.txt`. This will take some time.
 ```
 python -m pip install --upgrade pip
