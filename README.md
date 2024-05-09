@@ -1,15 +1,14 @@
 # OpenVINO & OpenCV
 
 ## Prepare for OpenVINO Installation
-* [Download Python 3.10](https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
-)
+* [Download Python 3.12 or later](https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe)
 
 ```
 CMD> python --version
 Python 3.10.9
 ```
 
-* [Download Git 2.40.1](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
+* [Download Git 2.45.0 or later](https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/Git-2.45.0-64-bit.exe)
 ```
 CMD> git --version
 git version 2.40.1.windows.1
@@ -17,14 +16,14 @@ git version 2.40.1.windows.1
 
 ## Clone this repo
 ```
-CMD> cd %HOME%
+CMD> cd %USERPROFILE%
 git clone https://github.com/litcoder/ovcv
 ```
 
 ## Clone OpenVINO Notebooks under Virtual Environment
 Let's assume you're creating this under your home directory.
 ```
-CMD> cd %HOME%
+CMD> cd %USERPROFILE%
 C:\Users\USER>
 ```
 
